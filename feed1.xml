@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annonces>
+  <description_commune>
+    <recruteur><![CDATA[ Armée de Terre française ]]></recruteur>
+    <siterecruteur><![CDATA[ https://www.sengager.fr ]]></siterecruteur>
+    <emailrecruteur><![CDATA[ drhat-sdr.mcrec-multimedia-chef.fct@intradef.gouv.fr ]]></emailrecruteur>
+    <descr_societe><![CDATA[ Chaque année, l'armée de Terre recrute et forme 16 000 soldats dans plus de 100 spécialités. Devenir soldat, c'est faire le choix d'un métier utile, qui a du sens. Un projet professionnel ambitieux dont vous pourrez être fier demain. Engagé pour la France, vous y découvrirez un univers hors du commun au sein duquel l'escalier social et les évolutions professionnelles sont une réalité pour quiconque prouve sa valeur et sa motivation. ]]></descr_societe>
+    <type_contrat><![CDATA[ CDD ]]></type_contrat>
+    <description_contrat><![CDATA[ Contrat Militaire ]]></description_contrat>
+    <duree_contrat><![CDATA[ Contrat de 5, 8 ou 10 ans renouvelable ]]></duree_contrat>
+    <nationalite><![CDATA[ Nationalité française, en règle avec les obligations du service national JDC et jouissant de ses droits civiques ]]></nationalite>
+    <avantages><![CDATA[ 9 semaines de permission, -75% toute l'année avec la SNCF, Logement, repas ]]></avantages>
+  </description_commune>
+    <annonce_job>
+    <id><![CDATA[185]]></id>
+    <titre_poste><![CDATA[ Mécanicien aéronautique ]]></titre_poste>
+    <url_form_rh><![CDATA[ https://www.review-zf5m4ta-2vzev4byhi4fm.fr-3.platformsh.site/emplois/aerocombat/mecanicien-aeronautique ]]></url_form_rh>
+    <correspondance_civile><![CDATA[  ]]></correspondance_civile>
+    <description_mission><![CDATA[ Votre spécialité consiste à réaliser des actes de préparation et de maintenance simples sur les hélicoptères de l’armée de Terre. Vous êtes spécialisé pour intervenir soit sur la partie moteur, l’avionique (instruments et équipements de bord) ou bien la structure.
+
+Vous partez régulièrement en opérations extérieures.
+ ]]></description_mission>
+    <grade><![CDATA[ Militaire du rang ]]></grade>
+    <domaine_specialite><![CDATA[ Aérocombat ]]></domaine_specialite>
+    <aptitude><![CDATA[ Aptitude militaire ]]></aptitude>
+    <sexe_age><![CDATA[ Homme ou femme, de 17,5 à 30 ans ]]></sexe_age>
+    <qualite><![CDATA[ Vos qualités : méthodique, goût pour la technologie aéronautique, sens des responsabilités ]]></qualite>
+    <remuneration_solde><![CDATA[ 1362 € net/mois ]]></remuneration_solde>
+    <niveau_etude><![CDATA[ Avec ou sans bac ]]></niveau_etude>
+    <code_postal><![CDATA[  ]]></code_postal>
+      </annonce_job>
+    <annonce_job>
+    <id><![CDATA[187]]></id>
+    <titre_poste><![CDATA[ Technicien maintenance aéronautique ]]></titre_poste>
+    <url_form_rh><![CDATA[ https://www.review-zf5m4ta-2vzev4byhi4fm.fr-3.platformsh.site/emplois/aerocombat/technicien-maintenance-aeronautique ]]></url_form_rh>
+    <correspondance_civile><![CDATA[  ]]></correspondance_civile>
+    <description_mission><![CDATA[ Votre spécialité consiste à réaliser en autonomie l’entretien et les réparations complexes des hélicoptères de l’armée de Terre et à commander une équipe de réparation. Vous travaillez soit sur les moteurs (CMA), sur l’ensemble des équipements électroniques et informatiques embarqués (avionique) ou bien sur la structure des
+aéronefs (STA).
+
+Vous partez régulièrement en opérations extérieures.
+ ]]></description_mission>
+    <grade><![CDATA[ Sous-officier ]]></grade>
+    <domaine_specialite><![CDATA[ Aérocombat ]]></domaine_specialite>
+    <aptitude><![CDATA[ Aptitude militaire ]]></aptitude>
+    <sexe_age><![CDATA[ Homme ou femme, de 17,5 à 30 ans ]]></sexe_age>
+    <qualite><![CDATA[ Vos qualités : méthodique, goût pour la technologie aéronautique, sens des responsabilités ]]></qualite>
+    <remuneration_solde><![CDATA[ 1384 € net/mois ]]></remuneration_solde>
+    <niveau_etude><![CDATA[ À partir du bac ]]></niveau_etude>
+    <code_postal><![CDATA[  ]]></code_postal>
+      </annonce_job>
+    
+  </annonces>
